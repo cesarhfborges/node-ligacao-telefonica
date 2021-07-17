@@ -12,9 +12,9 @@ module.exports = function Audio(httpClient) {
    * Envia um audio para um número destino
    * @param {string} numero_destino
    * @param {string} url_audio
-   * @param {bool} resposta_usuario
+   * @param {boolean} resposta_usuario
    * @param {string} bina
-   * @param {bool} gravar_audio
+   * @param {boolean} gravar_audio
    * @return {Promise}
    */
   this.enviar = function (numero_destino, url_audio, resposta_usuario, bina, gravar_audio) {
