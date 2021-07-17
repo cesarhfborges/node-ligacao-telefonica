@@ -27,6 +27,12 @@ git clone
 npm install
 ```
 
+```bash
+cp .env_example .env
+```
+
+Coloque sua chave de api dentro do arquivo env conforme informado.
+
 > ### Utilização
 
 Para utilizar esta biblioteca, primeiramente você deverá realizar o cadastro no site da [Zenvia]('https://voice-app.zenvia.com/').
