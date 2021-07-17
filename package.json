@@ -1,0 +1,20 @@
+{
+  "name": "total-voice",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cesar Henrique",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
